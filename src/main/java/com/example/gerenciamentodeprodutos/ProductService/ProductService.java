@@ -1,5 +1,5 @@
-package ProductService;
-import Entity.Product;
+package com.example.gerenciamentodeprodutos.ProductService;
+import com.example.gerenciamentodeprodutos.Entity.Product;
 
 import java.util.List;
 import java.util.Optional;
